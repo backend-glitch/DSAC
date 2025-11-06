@@ -30,3 +30,10 @@ using namespace std;
 
     return true;
     }
+
+    int main(){
+
+     string word = "aman";
+    bool ans = isPalindrome(word);
+    cout<<ans<<endl;
+    }
