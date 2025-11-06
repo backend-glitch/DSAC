@@ -20,8 +20,6 @@ Each solution includes the problem link, approach, and complexity analysis.
 
 ---
 
-<p align="center"> <img src="https://img.shields.io/badge/Arrays-35%2F50-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/Strings-22%2F40-green?style=for-the-badge"> <img src="https://img.shields.io/badge/Linked%20List-15%2F30-yellow?style=for-the-badge"> <img src="https://img.shields.io/badge/DP-20%2F50-orange?style=for-the-badge"> </p>
-
 
 | Topic | Problems Solved | Status |
 |:------|:----------------|:-------|
