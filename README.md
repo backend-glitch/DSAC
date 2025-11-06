@@ -29,3 +29,8 @@ Each solution includes the problem link, approach, and complexity analysis.
 | Trees | 18 | 🔄 Ongoing |
 | Graphs | 10 | 🟡 Planned |
 | Dynamic Programming | 20 | 🔄 Ongoing |
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e1e,100:000000&height=120&section=footer&text=✨%20Developed%20by%20Team%20DSA-C++%20✨&fontSize=22&fontColor=ffffff&animation=fadeIn">
+</p>
