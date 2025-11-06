@@ -34,12 +34,8 @@ Each solution includes the problem link, approach, and complexity analysis.
 <div align="center">
   <h2>🧠 LeetCode</h2>
   <p>Solutions, explanations and progress — check out my LeetCode profile.</p>
-  <p>
-    <a href="https://leetcode.com/u/BifH1TRfIz/" target="_blank" rel="noopener noreferrer">
-      <img alt="LeetCode — BifH1TRfIz" src="https://img.shields.io/badge/Follow-on_LeetCode-Visit-green?style=flat-square&logo=leetcode&logoColor=white" />
-    </a>
-  </p>
-  <small>Profile: <a href="https://leetcode.com/u/BifH1TRfIz/" target="_blank" rel="noopener noreferrer">leetcode.com/u/BifH1TRfIz/</a></small>
+
+  <small>⚙️🧑‍💻Profile: <a href="https://leetcode.com/u/BifH1TRfIz/" target="_blank" rel="noopener noreferrer">leetcode.com/u/BifH1TRfIz/</a></small>
 </div>
 
 
