@@ -1,7 +1,5 @@
-# DSAC
+# DSA©️
 Complete DSA series for C 🎯🚀
-
-# DSA-C-
 
 <h1 align="center">💻 Data Structures & Algorithms Practice</h1>
 
