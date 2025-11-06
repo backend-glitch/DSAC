@@ -29,6 +29,19 @@ Each solution includes the problem link, approach, and complexity analysis.
 | Graphs | 10 | 🟡 Planned |
 | Dynamic Programming | 20 | 🔄 Ongoing |
 
+---
+<br>
+<div align="center">
+  <h2>🧠 LeetCode</h2>
+  <p>Solutions, explanations and progress — check out my LeetCode profile.</p>
+  <p>
+    <a href="https://leetcode.com/u/BifH1TRfIz/" target="_blank" rel="noopener noreferrer">
+      <img alt="LeetCode — BifH1TRfIz" src="https://img.shields.io/badge/Follow-on_LeetCode-Visit-green?style=flat-square&logo=leetcode&logoColor=white" />
+    </a>
+  </p>
+  <small>Profile: <a href="https://leetcode.com/u/BifH1TRfIz/" target="_blank" rel="noopener noreferrer">leetcode.com/u/BifH1TRfIz/</a></small>
+</div>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e1e,100:000000&height=120&section=footer&text=✨%20DSA-C++%20Version-g++'17'✨&fontSize=22&fontColor=ffffff&animation=fadeIn">
