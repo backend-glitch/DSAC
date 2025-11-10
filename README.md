@@ -6,7 +6,7 @@ Folder : DC
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C++17-blue?style=flat-square">
-  <img src="https://img.shields.io/github/last-commit/your-username/your-repo-name?style=flat-square&color=green">
+  <img src="https://img.shields.io/github/last-commit/backend-glitch/DSAC?style=flat-square&color=green">
   <img src="https://img.shields.io/badge/Problems%20Solved-120+-success?style=flat-square">
   <img src="https://img.shields.io/badge/Platform-LeetCode%20%7C%20GFG-orange?style=flat-square">
 </p>
@@ -24,10 +24,14 @@ Each solution includes the problem link, approach, and complexity analysis.
 |:------|:----------------|:-------|
 | Arrays | 35 | ✅ In Progress |
 | Strings | 22 | ✅ In Progress |
-| Linked Lists | 15 | 🔄 Ongoing |
-| Trees | 18 | 🔄 Ongoing |
+| Binary Search | 15 | 🔄 Ongoing |
+| Backtracking | 2 | 🔄 Ongoing |
+| Linked Lists | 10 | 🔄 Ongoing |
+| Stacks | 10 | 🔄 Ongoing |
+| Queue | 10 | 🔄 Ongoing |
+| Trees | 18 | 🟢Upcoming |
 | Graphs | 10 | 🟡 Planned |
-| Dynamic Programming | 20 | 🔄 Ongoing |
+| Dynamic Programming | 20 | 🟡 Planned |
 
 ---
 <br>
