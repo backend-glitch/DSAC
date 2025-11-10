@@ -29,6 +29,7 @@ Each solution includes the problem link, approach, and complexity analysis.
 | Linked Lists | 10 | 🔄 Ongoing |
 | Stacks | 10 | 🔄 Ongoing |
 | Queue | 10 | 🔄 Ongoing |
+| Bitmasking | 15 | 🟠 Long Term |
 | Trees | 18 | 🟢Upcoming |
 | Graphs | 10 | 🟡 Planned |
 | Dynamic Programming | 20 | 🟡 Planned |
