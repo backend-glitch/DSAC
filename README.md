@@ -8,6 +8,7 @@ Folder : DC
   <img src="https://img.shields.io/badge/Language-C++17-blue?style=flat-square">
   <img src="https://img.shields.io/github/last-commit/backend-glitch/DSAC?style=flat-square&color=green">
   <img src="https://img.shields.io/badge/Problems%20Solved-120+-success?style=flat-square">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=backend-glitch&theme=dark&hide_border=true&background=0d1117&stroke=ff7f50&fire=ffdd00&currStreakLabel=Streak" alt="GitHub Streak">
   <img src="https://img.shields.io/badge/Platform-LeetCode%20%7C%20GFG-orange?style=flat-square">
 </p>
 
