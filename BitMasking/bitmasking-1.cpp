@@ -1,6 +1,12 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+/*
+Input: [2, 1, 5, 6]
+Target sum: 9
+Output: [2, 1, 6]
+*/
+
 vector<int> find_sublist_sum(vector<int> nums, int target) {
     int n = nums.size();
 
