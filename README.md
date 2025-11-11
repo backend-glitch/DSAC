@@ -25,8 +25,8 @@ Each solution includes the problem link, approach, and complexity analysis.
 |:------|:----------------|:-------|
 | Arrays | 35 | ✅ In Progress |
 | Strings | 22 | ✅ In Progress |
-| Binary Search | 15 | 🔄 Ongoing |
-| Backtracking | 2 | 🔄 Ongoing |
+| Binary Search | 15 | ✅ Ongoing |
+| Backtracking | 10 | ✅ Ongoing |
 | Linked Lists | 10 | 🔄 Ongoing |
 | Stacks | 10 | 🔄 Ongoing |
 | Queue | 10 | 🔄 Ongoing |
