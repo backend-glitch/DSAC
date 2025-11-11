@@ -22,13 +22,13 @@ bool backtrack(int index, vector<int>& nums, vector<int>& current, int total, in
         return false;
     }
 
-    // Include current number
+    // Include current number - case1
     current.push_back(nums[index]);
     if (backtrack(index + 1, nums, current, total + nums[index], target, result))
         return true;
     current.pop_back();  // backtrack (remove last added element)
 
-    // Exclude current number
+    // Exclude current number - case2
     if (backtrack(index + 1, nums, current, total, target, result))
         return true;
 
