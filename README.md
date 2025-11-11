@@ -41,7 +41,7 @@ Each solution includes the problem link, approach, and complexity analysis.
   <h2>🧠 LeetCode</h2>
   <p>Solutions, explanations and progress — check out my LeetCode profile.</p>
 
-  <small>⚙️🧑‍💻Profile: <a href="https://leetcode.com/u/BifH1TRfIz/" target="_blank" rel="noopener noreferrer">leetcode.com/u/BifH1TRfIz/</a></small>
+  <small>⚙️🧑‍💻Profile: <a href="https://leetcode.com/u/BifH1TRfIz/" target="_blank" rel="noopener noreferrer">My_Leetcode_Profile🎯</a></small>
 </div>
 
 
