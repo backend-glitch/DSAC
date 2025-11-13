@@ -11,6 +11,15 @@ take this test case :
 
 // --- Function to find a sublist (subset) whose sum equals target ---
 bool backtrack(int index, vector<int>& nums, vector<int>& current, int total, int target, vector<int>& result) {
+
+    /*
+      here , index => current level
+      nums => given array
+      current => it stores array for each level
+      total => sum value for each current array
+      target => the given target sum
+      result => the final answer array to be displayed
+    */
     // Base case: found target sum
     if (total == target) {
         result = current; // store the found subset
