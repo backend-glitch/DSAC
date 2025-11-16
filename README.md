@@ -36,6 +36,16 @@ Each solution includes the problem link, approach, and complexity analysis.
 | Dynamic Programming | 20 | 🟡 Planned |
 
 ---
+---
+
+## 📊 DSAC Contribution Graph
+
+[![DSAC Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=backend-glitch&repo=DSAC&theme=react-dark&hide_border=true)](https://github.com/backend-glitch/DSAC)
+
+---
+
+
+---
 <br>
 <div align="center">
   <h2>🧠 LeetCode</h2>
