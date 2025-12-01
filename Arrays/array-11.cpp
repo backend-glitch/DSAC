@@ -5,7 +5,8 @@ bool istimepossible(vector<int>& piles,int givenpilestime,int totalhours){//if g
 
   int actualpilestime = 0;
   for(int &p : piles){
-    actualpilestime += p/givcd enpilestime;
+   actualpilestime += p/givenpilestime;
+
 
     if( p % givenpilestime != 0){//if it will come decimal like 0.7 ,so we can consider to be 1;
         actualpilestime++;
