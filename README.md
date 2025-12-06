@@ -51,7 +51,8 @@ Each solution includes the problem link, approach, and complexity analysis.
   <h2>🧠 LeetCode</h2>
   <p>Solutions, explanations and progress — check out my LeetCode profile.</p>
 
-<a href="https://leetcode.com/u/BifH1TRfIz/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<!-- <a href="https://leetcode.com/u/BifH1TRfIz/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a> -->
+<a href = "https://leetcode.com/problem-list/nkcnlsut/"><img src="https://gitstar-s9jh.vercel.app/card?title=My+DSA+Leetcode+Playlist+🔥&color1=blue&color2=cyan" /></a>
 </div>
 
 
