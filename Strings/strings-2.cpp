@@ -5,7 +5,11 @@ input : "pwwkew"
 output : 3 -> (kew)
 */
 
-#include <bits/stdc++.h>
+#include <iostream>
+#include <conio.h>
+#include <climits>
+#include <vector>
+
 using namespace std;
 
 
