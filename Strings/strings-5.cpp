@@ -25,7 +25,7 @@ using namespace std;
       
     }
   }
-  return ans.substr(1);
+  return ans.substr(1); // .substr(starting_index, length) // length unprovided => considers remaining length by default !
   
     }
 
