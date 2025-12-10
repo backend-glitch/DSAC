@@ -27,13 +27,13 @@ Each solution includes the problem link, approach, and complexity analysis.
 | Strings | 22 | ✅ In Progress |
 | Binary Search | 15 | ✅ In Progress |
 | Backtracking | 10 | ✅ In Progress |
-| Linked Lists | 10 | 🔄 Ongoing |
+| Linked Lists | 10 | ✅ Ongoing |
 | Stacks | 10 | 🔄 Ongoing |
 | Queue | 10 | 🔄 Ongoing |
-| Bitmasking | 15 | 🟠 Long Term |
 | Trees | 18 | 🟢Upcoming |
 | Graphs | 10 | 🟡 Planned |
 | Dynamic Programming | 20 | 🟡 Planned |
+| Bitmasking | 15 | 🟠 Long Term |
 
 ---
 ---
