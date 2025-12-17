@@ -23,17 +23,17 @@ Each solution includes the problem link, approach, and complexity analysis.
 
 | Topic | Problems Solved | Status |
 |:------|:----------------|:-------|
-| Arrays | 35 | ✅ In Progress |
-| Strings | 22 | ✅ In Progress |
-| Binary Search | 15 | ✅ In Progress |
-| Backtracking | 10 | ✅ In Progress |
-| Linked Lists | 10 | ✅ Ongoing |
-| Stacks | 10 | 🔄 Ongoing |
-| Queue | 10 | 🔄 Ongoing |
-| Trees | 18 | 🟢Upcoming |
-| Graphs | 10 | 🟡 Planned |
-| Dynamic Programming | 20 | 🟡 Planned |
-| Bitmasking | 15 | 🟠 Long Term |
+| Arrays | 12 | ✅ In Progress |
+| Strings | 5 | ✅ In Progress |
+| Binary Search | 8 | ✅ In Progress |
+| Backtracking | 5 | ✅ In Progress |
+| Linked Lists | 8 | ✅ Ongoing |
+| Stacks | 5 | 🔄 Ongoing |
+| Queue | 5 | 🔄 Ongoing |
+| Trees | .. | 🟢Upcoming |
+| Graphs | .. | 🟡 Planned |
+| Dynamic Programming | .. | 🟡 Planned |
+| Bitmasking | 1 | 🟠 Long Term |
 
 ---
 ---
