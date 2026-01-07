@@ -149,3 +149,29 @@ void display() {
 
 };
 
+
+int main() {
+    LinkedList list;
+
+    list.insertFront(10);
+    list.insertFront(20);
+    list.insertBack(30);
+    list.insertBack(40);
+
+    cout << "After insertions:\n";
+    list.display();
+
+    list.deleteFront();
+    cout << "After deleteFront:\n";
+    list.display();
+
+    list.deleteBack();
+    cout << "After deleteBack:\n";
+    list.display();
+
+    list.insertAt(1, 99);
+    cout << "After insertAt(1, 99):\n";
+    list.display();
+
+    return 0;
+}
