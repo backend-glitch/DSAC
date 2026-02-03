@@ -18,8 +18,9 @@ void subsum(int nums[], int n, int target, int level, int currnum[], int size){
     if(target == 0){
 
         for(int i = 0;i<size;i++) printf("%d",currnum[i]);
-
-        printf("\n");
+        
+        printf(" ");
+       
 
         return;
     }
